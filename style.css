@@ -1,0 +1,10 @@
+.pic-socialmedia {
+    height: 30px;
+}
+
+.carousel-item > img{
+    min-height : 300px;
+    max-height : 300px;
+    width : 100%;
+  }
+
