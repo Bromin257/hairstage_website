@@ -1,10 +1,26 @@
-.pic-socialmedia {
-    height: 30px;
+body {
+    background: url('./media/women.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }
 
-.carousel-item > img{
-    min-height : 300px;
-    max-height : 300px;
-    width : 100%;
-  }
+.serif-font {
+    font-family: 'Lora', serif;
+}
 
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.text-md{
+    font-size: 1.1rem;
+}
